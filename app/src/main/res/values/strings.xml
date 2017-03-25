@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseSeries3Login</string>
+    <string name="logout">Logout</string>
+</resources>
